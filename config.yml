@@ -9,7 +9,7 @@
 
 baseURL: ""
 
-title: "Quire Starter"
+title: "Mozoomdar at Sea"
 languageCode: "en-us"
 theme: "quire-starter-theme"
 publishDir: site
@@ -35,14 +35,16 @@ params:
   licenseIcons: true
   pageLabelDivider: ". "
   citationPageLocationDivider: ", "
-  displayBiblioShort: true
+  displayBiblioShort: false
   imageDir: "img"
   tocType: full
   menuType: full
   prevPageButtonText: "Back"
   nextPageButtonText: "Next"
-  entryPageSideBySideLayout: false
-  entryPageObjectLinkText: "View in Collection"
+  entryPageSideBySideLayout: true
+  entryPageObjectLinkText: "Explore"
+  entryPageObjectLink_letters_englishText: "Read English translation"
+  entryPageObjectLink_letters_bengaliText: "Read Bengali translation"
   figureLabelLocation: on-top # below | on-top
   figureModal: true
   figureModalIcons: true

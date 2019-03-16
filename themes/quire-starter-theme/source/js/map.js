@@ -1,57 +1,36 @@
 import L from 'leaflet'
 import 'leaflet-fullscreen'
-// import leafletImage from 'leaflet-image'
 
 class Map {
-  constructor(id) {
-    
-    // remove and refresh before init
-    if (isPopup) {
-      if (window.mapID != undefined || window.mapID != undefined) {
-        window.mapID.off()
-        window.mapID.remove()
-      }
-      let node = document.getElementById(id);
-      if (node) {
-        while (node.firstChild) {
-          node.removeChild(node.firstChild)
-        }  
-      }
+  constructor() {
+    this.el = 'js-map'
+    this.tiles = 'http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg'
+    this.attribution =
+    '<a href="http://maps.stamen.com">Map tiles</a> by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="https://creativecommons.org/licenses/by/3.0">CC BY SA</a>'
+    this.data = $(`#${this.el}`).data('geojson')
+    this.center = this.getCoordinates()
+    this.defaultZoom = 3
+    this.map = this.createMap()
+    this.addTiles()
+
+    if (this.data) {
+      this.getData()
     }
-  
-    
-    if (id) {
-      this.el = id
-      this.tiles = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-      this.attribution = 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
-      this.data = $(`#${this.el}`).data('geojson')
-      this.center = this.getCoordinates()
-      this.defaultZoom = 6
-      this.map = this.createMap()
-      window.mapID = this.map
-      this.addTiles()
- 
-      this.map.on('fullscreenchange', function () {
-          this.invalidateSize(true)
-      })
-  
-      if (this.data) {
-        this.getData()
-      }
-  
-      setTimeout(() => {
-        this.map.invalidateSize()
-      }, 100)
-    }
+
+    setTimeout(() => {
+      this.map.invalidateSize()
+    }, 100)
+
+    this.map.on('fullscreenchange', () => {
+      this.map.invalidateSize()
+    })
   }
 
   createMap() {
     return L.map(this.el, {
-      fullscreenControl: {
-          pseudoFullscreen: false // if true, fullscreen to page width and height
-      }
-    })
-    .setView(this.center, this.defaultZoom)
+      // add leaflet options here
+      fullscreenControl: true
+    }).setView(this.center, this.defaultZoom)
   }
 
   addTiles() {
@@ -74,8 +53,8 @@ class Map {
         pointToLayer: (feature, latlng) => {
           return L.circleMarker(latlng, {
             radius: 8,
-            fillColor: '#333',
-            color: '#000',
+            fillColor: '#e06353',
+            color: '#e06353',
             weight: 1,
             opacity: 1,
             fillOpacity: 0.75
@@ -84,7 +63,20 @@ class Map {
         // Change styles here as desired
         onEachFeature: (feature, layer) => {
           let options = { minWidth: 100, maxHeight: 250 }
-          layer.bindPopup(feature.properties.description, options)
+          var layerType = layer.feature.geometry.type
+          if (layerType === 'Point') {
+            layer.bindPopup(feature.properties.description, options)
+            layer.on('mouseover', function (e) {
+              this.openPopup()
+            })
+            layer.on('mouseout', function (e) {
+              this.closePopup()
+            })
+            layer.on('click', function (e) {
+              window.location.replace(feature.properties.link, '_self')
+              return false
+            })
+          }
         }
       }).addTo(this.map)
     })

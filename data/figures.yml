@@ -1,88 +1,86 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "1"
+    src: /figures/PCM-portrait-1893.jpg
+    thumb: /figures/PCM-portrait-1893.jpg
+    caption: "Portrait of Protap Chunder Mozoomdar taken in accordance with the World's Parliament of Religions. Chicago, 1893."
+    credit: "Public domain image"
+  - id: "2"
+    src: /figures/SS-Khedive-1871.jpg
+    thumb: /figures/SS-Khedive-1871.jpg
+    caption: "P&O Steamship Khedive in Port Said, 1871."
+    credit: "(c) P&O Heritage Collection [www.poheritage.com](http://poheritage.com)"
+  - id: "3"
+    src: /figures/Anagarika-Dharmapala-1893.jpg
+    thumb: /figures/Anagarika-Dharmapala-1893.jpg
+    caption: "Portrait of Anagarika Dharmapala taken in accordance with the World's Parliament of Religions. Chicago, 1893."
+    credit: "Public domain image"
+  - id: "4"
+    src: /figures/Saudamini-c1890.png
+    thumb: /figures/Saudamini-c1890.png
+    caption: "Saudamini Mozoomdar, c.1890."
+    credit: "Public domain image"
+  - id: "5"
+    src: /figures/Goddess-Bhairavi-c1880s.jpg
+    thumb: /figures/Goddess-Bhairavi-c1880s.jpg
+    caption: "The goddess Bhairavi, c.1880s."
+    credit: "Public domain image, by P.C. Biswas"
+  - id: "6"
+    src: /figures/Aden-postcard-c1910.jpg
+    thumb: /figures/Aden-postcard-c1910.jpg
+    caption: "Aden - St. Point landing stage. Postcard, c.1910."
+    credit: "Public domain image"
+  - id: "7"
+    src: /figures/On-the-Suez-Canal-1894.jpg
+    thumb: /figures/On-the-Suez-Canal-1894.jpg
+    caption: "On the Suez Canal, 1894."
+    credit: "Public domain image, by William Henry Jackson"
+  - id: "8"
+    src: /figures/SS-Khedive-1876.jpg
+    thumb: /figures/SS-Khedive-1876.jpg
+    caption: "P&O Steamship Khedive, c1876."
+    credit: "Public domain image"
+  - id: "9"
+    src: /figures/Old-Harbor-Marseille-c1890-1900.jpg
+    thumb: /figures/Old-Harbor-Marseille-c1890-1900.jpg
+    caption: "Old Harbor, Marseille, c.1890-1900."
+    credit: "Public domain image"
+  - id: "10"
+    src: /figures/Plymouth-Pier-1904.jpg
+    thumb: /figures/Plymouth-Pier-1904.jpg
+    caption: "The Pier, with Drake's Island. Plymouth, England."
+    credit: "Public domain image"
+  - id: "11"
+    src: /figures/rev-robert-spears.jpg
+    thumb: /figures/rev-robert-spears.jpg
+    caption: "Portrait of Reverend Robert Spears."
+    credit: The Channing School Archives, Highgate, London.
+  - id: "12"
+    src: /figures/Liverpool-landing-stage-1903.jpg
+    thumb: /figures/Liverpool-landing-stage-1903.jpg
+    caption: "Landing Stage. Liverpool, 1903."
+    credit: "Public domain image"
+  - id: "13"
+    src: /figures/RMS-Umbria-1896.jpg
+    thumb: /figures/RMS-Umbria-1896.jpg
+    caption: "Cunard Line Royal Magesty Ship Umbria, 1896."
+    credit: "Public domain image"
+  - id: "14"
+    src: /figures/Plymouth-Church-Brooklyn-1904.jpg
+    thumb: /figures/Plymouth-Church-Brooklyn-1904.jpg
+    caption: "Plymouth Church, Brooklyn, 1904."
+    credit: "Public domain image"
+  - id: "15"
+    src: /figures/Niagara-Falls-1898.jpg
+    thumb: /figures/Niagara-Falls-1898.jpg
+    caption: "Photochrom print of American Falls and the Rock of Ages, 1898."
+    credit: "Public domain image, by William Henry Jackson"
+  - id: "16"
+    src: /figures/Chicago-Art-Institute-1893.jpg
+    thumb: /figures/Chicago-Art-Institute-1893.jpg
+    caption: "Photograph of the Art Institute of Chicago taken in accordance with the World's Parliament of Religions, 1893."
+    credit: "Public domain image"
+  - id: "17"
+    src: /headers/PCM-letters-header.jpg
+    thumb: /figures/mozoomdar-letters-bengali.jpg
+    caption: "_Letters Written by Protapchandra to his Wife_."
+    credit: "Sunrit Mullick"

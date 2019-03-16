@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Farewell to Kolkata",
+        "link": "/journey/farewell-to-kolkata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.368852,
+          22.577999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A Prolongued Departure",
+        "link": "/journey/a-prolonged-departure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.29986572265625,
+          22.54411077705975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Bay of Bengal",
+        "link": "/journey/the-bay-of-bengal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.923828125,
+          15.411319377980993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Colombo",
+        "link": "/journey/colombo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.85000610351562,
+          6.9332431402747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Arabian Sea",
+        "link": "/journey/arabian-sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.49023437499999,
+          13.325484885597936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aden",
+        "link": "/journey/aden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90112304687499,
+          12.747516274952726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Red Sea",
+        "link": "/journey/red-sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.408203125,
+          20.427012814257385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Suez Canal",
+        "link": "/journey/suez-canal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.51953125,
+          29.945415337104453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Mediterranean Sea",
+        "link": "/journey/mediterranean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.775390625,
+          35.24561909420681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marseille",
+        "link": "/journey/marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.350341796875,
+          43.297198404646366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Strait of Gibraltar",
+        "link": "/journey/gibraltar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.625,
+          35.94243575255426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Bay of Biscay",
+        "link": "/journey/biscay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6142578125,
+          45.460130637921004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Plymouth",
+        "link": "/journey/plymouth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.148712158203125,
+          50.359480346298696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "London",
+        "link": "/journey/london"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1438683271408081,
+          51.56996469977649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Liverpool",
+        "link": "/journey/liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0294799804687496,
+          53.44635321212876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Atlantic Ocean",
+        "link": "/journey/atlantic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.826171875,
+          40.58058466412761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "New York",
+        "link": "/journey/new-york"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99313449859619,
+          40.69916172099132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Niagara Falls",
+        "link": "/journey/niagara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.07160758972168,
+          43.08456131144392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Chicago",
+        "link": "/journey/chicago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62279033660889,
+          41.87965863341244
+        ]
+      }
+    },
+  ]
+}

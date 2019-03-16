@@ -6,44 +6,64 @@ object_display_order:
   - location
 object_list:
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sub>7</sub>/<sub>16</sub> in × 10 <sub>9</sub>/<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link: http://www.getty.edu/art/collection/objects/125690/
+    title: Letters Written by Protapchandra to his Wife
+    artist: Protap Chunder Mozoomdar
+    year: 1893
+    medium: Ink on Paper
+    dimensions:
+    location: Sunrit Mullick Collection
+    link_letters_english: /img/figures/Mozoomdar-Letters-English.pdf
+    link_letters_bengali: /img/figures/Mozoomdar-Letters-Bengali-1893.pdf
     figure:
-      - id: "mother"
-      - id: "mother-b"
-      - id: "mother-c"
+      - id: "17"
   - id: 2
-    title: Pea Pickers, Nipomo, California
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print, with applied pigment
-    dimensions: 29.5 cm × 24.4 cm (7 <sub>11</sub>/<sub>16</sub> in × 9 <sub>5</sub>/<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: http://www.getty.edu/art/collection/objects/130784/
+    title: Protap Chunder Mozoomdar
+    artist:
+    year: 1893
+    medium: Photograph
+    dimensions:
+    location:
+    link: https://commons.wikimedia.org/wiki/File:The_World%27s_Parliament_of_Religions_-_an_illustrated_and_popular_story_of_the_World%27s_First_Parliament_of_Religions,_held_in_Chicago_in_connection_with_the_Columbian_exposition_of_1893_(1893)_(14762059301).jpg
     figure:
-      - id: "pickers"
+      - id: "1"
   - id: 3
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sub>5</sub>⁄<sub>8</sub> x 9 <sub>5</sub>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: http://www.getty.edu/art/collection/objects/45651/
+    title: Saudamini Mozoomdar
+    artist:
+    year: c1890
+    medium: Photograph
+    dimensions:
+    location: "Mozoomdar, Protap Chunder, _Śtrīcaritra_ (Calcutta: Navavidhan Publication Committee, 1890), n.p."
+    link:
     figure:
-      - id: "duo"
+      - id: "4"
   - id: 4
-    title: Burroughs Family, Hale County, Alabama
-    artist: Walker Evans
-    year: 1935
-    medium: Gelatin silver print
-    dimensions: 19.2 x 24.1 (7 <sub>9</sub>⁄<sub>16</sub> x 9 <sub>1</sub>⁄<sub>2</sub> in.)
-    location: J. Paul Getty Museum
-    link: http://www.getty.edu/art/collection/objects/34753/
+    title: Anagarika Dharmapala
+    artist:
+    year: 1893
+    medium: Photograph
+    dimensions:
+    location:
+    link: https://theosophy.wiki/en/File:Dharmapala_at_Parliament.jpg#/media/File:Dharmapala_at_Parliament.jpg
     figure:
-      - id: "family"
+      - id: "3"
+  - id: 5
+    title: Reverend Robert Spears
+    artist:
+    year:
+    medium: Photograph
+    dimensions:
+    location: The Channing School Archives, Highgate, London
+    link:
+    figure:
+      - id: "11"
+  - id: 6
+    title: Steamship Khedive
+    artist:
+    year:
+    medium:
+    dimensions:
+    location: P&O Heritage Collection
+    link: http://www.poheritage.com/our-archive/ships-search/advanced-ship-search-results/DispaySelection?ships[0]=26841&
+    figure:
+      - id: "2"
+      - id: "8"

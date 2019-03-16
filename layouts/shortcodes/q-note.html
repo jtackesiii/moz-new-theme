@@ -1,0 +1,34 @@
+{{/*
+
+  A custom shortcode for alternative footnote handling, based on the standard
+  q-cite shorcode.
+
+*/}}
+
+{{- $id := .Get 0 -}}
+
+{{- range $.Site.Data.notes.endnotes -}}
+    {{- if eq .id $id -}}
+        {{- $.Scratch.Add "note" .note -}}
+    {{- end -}}
+{{- end -}}
+
+{{- if eq ($.Scratch.Get "note") nil -}}
+
+{{- else -}}
+
+  {{- $note := $.Scratch.Get "note" -}}
+  {{- $.Page.Scratch.SetInMap "footnote" "0" $id -}}
+  {{- $.Page.Scratch.SetInMap "footnote" "1" $note -}}
+  {{- $footnote := ($.Page.Scratch.GetSortedMapValues "footnote") -}}
+  {{- $.Page.Scratch.SetInMap "footnoted" $id $footnote -}}
+  <a href="#fn:{{ $id }}" rel="footnote" class="quire-citation"><span class="visually-hidden">Note: </span><sup class="footnote-ref" id="fnref:{{ $id }}">{{ $id }}</sup><span class="quire-citation__content">{{ $note | markdownify }}</span></a>
+
+
+  {{- $.Scratch.SetInMap "endnote" "0" $id -}}
+  {{- $.Scratch.SetInMap "endnote" "1" $note -}}
+  {{- $endnote := ($.Scratch.GetSortedMapValues "endnote") -}}
+  {{- $.Scratch.SetInMap "endnoted" $id $endnote -}}
+
+
+{{- end -}}

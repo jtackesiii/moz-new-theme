@@ -28,6 +28,12 @@
           {{ if .link }}
           <a href="{{ .link }}" target="_blank" class="button">{{ $.Site.Params.entryPageObjectLinkText }} {{- template "image-control-icon" (dict "type" "link" "description" "Open in new window" "imageDir" ($.Scratch.Get "imageDir") ) -}}</a>
           {{ end }}
+          {{ if .link_letters_english }}
+          <a href="{{ .link_letters_english }}" target="_blank" class="button">{{ $.Site.Params.entryPageObjectLink_letters_englishText }} {{- template "image-control-icon" (dict "type" "link" "description" "Open in new window" "imageDir" ($.Scratch.Get "imageDir") ) -}}</a>
+          {{ end }}
+          {{ if .link_letters_bengali }}
+          <a href="{{ .link_letters_bengali }}" target="_blank" class="button">{{ $.Site.Params.entryPageObjectLink_letters_bengaliText }} {{- template "image-control-icon" (dict "type" "link" "description" "Open in new window" "imageDir" ($.Scratch.Get "imageDir") ) -}}</a>
+          {{ end }}
         {{ end }}
       {{ else }}
       {{ end }}

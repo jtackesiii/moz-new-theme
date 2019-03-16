@@ -120,7 +120,7 @@
       {{ if .Page.Params.image }}
         {{ $imgPath := printf "%s/%s" ($.Page.Scratch.Get "imageDir") .Page.Params.image }}
         <div class="card-image">
-          <figure class="image">
+          <figure class="toc-image">
             <img src="{{ $imgPath | relURL }}" alt="" />
           </figure>
         </div>

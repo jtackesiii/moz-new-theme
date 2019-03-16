@@ -1,0 +1,35 @@
+{{/*
+
+A special page type that displays footnotes created by the q-note
+shortcode. Footnotes are formatted the same way they would be if
+created with the default Markdown option, including the back links.
+
+*/}}
+
+{{ define "main" }}
+
+<div class="{{ partial "page-class.html" . }}" id="main" role="main">
+  {{ partial "page-header.html" . }}
+
+  {{ with .Content }}
+  <section class="section quire-page__content" id="content">
+    <div class="container">
+      <div class="content">
+        {{ . }}
+        {{ if ($.Scratch.GetSortedMapValues "footnoted") -}}
+        <div class="footnotes">
+          <hr />
+          <ol start="{{ range first 1 ($.Scratch.GetSortedMapValues "footnoted") }}{{ index . 0 }}{{ end }}">
+            {{ range ($.Scratch.GetSortedMapValues "footnoted") -}}
+            <li id="fn:{{ index . 0 }}">{{ markdownify (index . 1)}} <a class="footnote-return" href="#fnref:{{ index . 0 }}">↩</a></li>
+            {{- end -}}
+          </ol>
+        </div>
+        {{- end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+</div>
+{{ end }}

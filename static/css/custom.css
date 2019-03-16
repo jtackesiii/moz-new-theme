@@ -1,0 +1,366 @@
+.quire-cover .quire-cover__hero {
+  background: transparent
+}
+.quire-cover .quire-cover__hero {
+  background-image: url('/img/figures/columbian-exhibition-1893.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.quire-page__header.hero__image {
+    height: 0px;
+}
+
+.content p {
+  text-align: justify;
+}
+
+.quire-page--splash .quire-page__header {
+  background: transparent;
+}
+
+/* #contents .section-item.quire-frontmatter {
+  border: none;
+  box-shadow: none;
+}
+
+#contents .card-content {
+  background-color: whitesmoke;
+} */
+
+.quire-page--splash {
+  background-image: url('/img/figures/columbian-exhibition-1893.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+@media (max-width: 767px) {
+.quire-page--splash {
+  background-attachment: initial;
+  }
+}
+
+.quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+.quire-page__content .container .content {
+  background-color: transparent;
+}
+
+.quire-entry .quire-page__content .content {
+    background-color: #ffffff;
+
+
+/* #journey-intro .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-farewell-to-kolkata .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-a-prolonged-departure .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-the-bay-of-bengal .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-colombo .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-arabian-sea .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-aden .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-red-sea .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-suez-canal .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-mediterranean .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-marseille .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-gibraltar .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-biscay .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-plymouth .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-london .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-liverpool .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-atlantic .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-new-york .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-niagara .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-chicago .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-conclusion .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-afterword .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-bibliography .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+} */
+
+#journey-intro .quire-page--splash {
+ background-image: url('/img/headers/01.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-farewell-to-kolkata .quire-page--splash {
+ background-image: url('/img/headers/02.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-a-prolonged-departure .quire-page--splash {
+ background-image: url('/img/headers/03.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-the-bay-of-bengal .quire-page--splash {
+ background-image: url('/img/headers/04.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-colombo .quire-page--splash {
+ background-image: url('/img/headers/05.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-arabian-sea .quire-page--splash {
+ background-image: url('/img/headers/06.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-aden .quire-page--splash {
+ background-image: url('/img/headers/07.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-red-sea .quire-page--splash {
+ background-image: url('/img/headers/08.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-suez-canal .quire-page--splash {
+ background-image: url('/img/headers/09.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-mediterranean .quire-page--splash {
+ background-image: url('/img/headers/10.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-marseille .quire-page--splash {
+ background-image: url('/img/headers/11.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-gibraltar .quire-page--splash {
+ background-image: url('/img/headers/12.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-biscay .quire-page--splash {
+ background-image: url('/img/headers/13.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-plymouth .quire-page--splash {
+ background-image: url('/img/headers/14.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-london .quire-page--splash {
+ background-image: url('/img/headers/15.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-liverpool .quire-page--splash {
+ background-image: url('/img/headers/16.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-atlantic .quire-page--splash {
+ background-image: url('/img/headers/17.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-new-york .quire-page--splash {
+ background-image: url('/img/headers/18.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-niagara .quire-page--splash {
+ background-image: url('/img/headers/19.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-chicago .quire-page--splash {
+ background-image: url('/img/headers/20.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-conclusion .quire-page--splash {
+ background-image: url('/img/headers/01.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-afterword .quire-page--splash {
+ background-image: url('/img/headers/01.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-bibliography .quire-page--splash {
+ background-image: url('/img/headers/01.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-map .quire-page__header {
+  display: none;
+}
+
+#journey-map .quire-page__content {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#journey-map .quire-page__content .container {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;
+  min-width: 100%;
+}
+
+#journey-map .quire-figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#journey-map .quire-map {
+    height: 525px;
+    margin-bottom: 0;
+}
+
+/* @supports (column-count: 1) {
+  #archives-archives .quire-contents-list.grid ul {
+    display: block;
+    column-count: auto;
+    column-width: 250px;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  #contents .menu-list {
+    display: block;
+    column-count: auto;
+    column-width: 500px;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+} */
+
+.toc-image img {
+  object-fit: contain;
+  max-height: 300px;
+  align-content: center;
+}
