@@ -20,15 +20,6 @@
   background: transparent;
 }
 
-/* #contents .section-item.quire-frontmatter {
-  border: none;
-  box-shadow: none;
-}
-
-#contents .card-content {
-  background-color: whitesmoke;
-} */
-
 .quire-page--splash {
   background-image: url('/img/figures/columbian-exhibition-1893.jpg');
   background-repeat: no-repeat;
@@ -358,9 +349,3 @@
     break-inside: avoid;
   }
 } */
-
-.toc-image img {
-  object-fit: contain;
-  max-height: 300px;
-  align-content: center;
-}
