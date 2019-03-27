@@ -43,7 +43,15 @@
 
 .quire-entry .quire-page__content .content {
     background-color: #ffffff;
+}
 
+.footnotes {
+  border-top: 1px solid #CF4747;
+  padding: 1em 0;
+  margin-top: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+}
 
 /* #journey-intro .quire-page__content {
   background-color: rgba(225, 225, 225, 0.8);

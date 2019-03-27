@@ -12,6 +12,8 @@ Saudamini during this time reveal a man enraptured by the beauty of the
 sea, which he took to be proof of God's immanent presence. Consider his
 first impressions of the waters before him:
 
+{{< q-figure id="19" class="is-pulled-left" >}}
+
 >The endless expanse of rippling blue is like the open arms of a
 mother. The dancing, churning waves crowned with surf are like excited
 children, and I their brother whose sight has filled them with joy,

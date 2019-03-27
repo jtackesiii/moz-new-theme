@@ -84,3 +84,18 @@ figure_list:
     thumb: /figures/mozoomdar-letters-bengali.jpg
     caption: "_Letters Written by Protapchandra to his Wife_."
     credit: "Sunrit Mullick"
+  - id: "18"
+    src: /figures/Janos-Ad.jpg
+    thumb: /figures/Janos-Ad.jpg
+    caption: "Hunyadi János Bitterquelle"
+    credit: "Ferdinand Meyer V"
+  - id: "19"
+    src: /figures/Janos-Bottle.jpg
+    thumb: /figures/Janos-Bottle.jpg
+    caption: "Hunyadi János Bitterquelle"
+    credit: "Ferdinand Meyer V"
+  - id: "20"
+    src: /figures/rev-robert-spears-2.jpg
+    thumb: /figures/rev-robert-spears-2.jpg
+    caption: "Portrait of Reverend Robert Spears."
+    credit: Malcolm Burns, private collection.

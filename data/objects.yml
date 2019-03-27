@@ -50,11 +50,12 @@ object_list:
     title: Reverend Robert Spears
     artist:
     year:
-    medium: Photograph
+    medium: Portrait on porcelain
     dimensions:
-    location: The Channing School Archives, Highgate, London
+    location: Private collection of Malcolm Burns
     link:
     figure:
+      - id: "20"
       - id: "11"
   - id: 6
     title: Steamship Khedive
@@ -67,3 +68,14 @@ object_list:
     figure:
       - id: "2"
       - id: "8"
+  - id: 7
+    title: Hunyadi János Bitterquelle
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link: https://www.peachridgeglass.com/2015/02/is-the-hunyadi-janos-saxlehners-bitterquelle-a-bitters-bottle/
+    figure:
+      - id: "18"
+      - id: "19"
