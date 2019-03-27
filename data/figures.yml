@@ -2,100 +2,100 @@ figure_list:
   - id: "1"
     src: /figures/PCM-portrait-1893.jpg
     thumb: /figures/PCM-portrait-1893.jpg
-    caption: "Portrait of Protap Chunder Mozoomdar taken in accordance with the World's Parliament of Religions. Chicago, 1893."
-    credit: "Public domain image"
+    caption: "Portrait of Protap Chunder Mozoomdar taken in accordance with the World's Parliament of Religions. Chicago, 1893,"
+    credit: "Public domain image."
   - id: "2"
     src: /figures/SS-Khedive-1871.jpg
     thumb: /figures/SS-Khedive-1871.jpg
-    caption: "P&O Steamship Khedive in Port Said, 1871."
+    caption: "P&O Steamship Khedive in Port Said, 1871,"
     credit: "(c) P&O Heritage Collection [www.poheritage.com](http://poheritage.com)"
   - id: "3"
     src: /figures/Anagarika-Dharmapala-1893.jpg
     thumb: /figures/Anagarika-Dharmapala-1893.jpg
-    caption: "Portrait of Anagarika Dharmapala taken in accordance with the World's Parliament of Religions. Chicago, 1893."
-    credit: "Public domain image"
+    caption: "Portrait of Anagarika Dharmapala taken in accordance with the World's Parliament of Religions. Chicago, 1893,"
+    credit: "Public domain image."
   - id: "4"
     src: /figures/Saudamini-c1890.png
     thumb: /figures/Saudamini-c1890.png
-    caption: "Saudamini Mozoomdar, c.1890."
-    credit: "Public domain image"
+    caption: "Saudamini Mozoomdar, c.1890,"
+    credit: "Public domain image."
   - id: "5"
     src: /figures/Goddess-Bhairavi-c1880s.jpg
     thumb: /figures/Goddess-Bhairavi-c1880s.jpg
-    caption: "The goddess Bhairavi, c.1880s."
-    credit: "Public domain image, by P.C. Biswas"
+    caption: "The goddess Bhairavi, c.1880s,"
+    credit: "Public domain image, by P.C. Biswas."
   - id: "6"
     src: /figures/Aden-postcard-c1910.jpg
     thumb: /figures/Aden-postcard-c1910.jpg
-    caption: "Aden - St. Point landing stage. Postcard, c.1910."
-    credit: "Public domain image"
+    caption: "Aden - St. Point landing stage. Postcard, c.1910,"
+    credit: "Public domain image."
   - id: "7"
     src: /figures/On-the-Suez-Canal-1894.jpg
     thumb: /figures/On-the-Suez-Canal-1894.jpg
-    caption: "On the Suez Canal, 1894."
-    credit: "Public domain image, by William Henry Jackson"
+    caption: "On the Suez Canal, 1894,"
+    credit: "Public domain image, by William Henry Jackson."
   - id: "8"
     src: /figures/SS-Khedive-1876.jpg
     thumb: /figures/SS-Khedive-1876.jpg
-    caption: "P&O Steamship Khedive, c1876."
-    credit: "Public domain image"
+    caption: "P&O Steamship Khedive, c1876,"
+    credit: "Public domain image."
   - id: "9"
     src: /figures/Old-Harbor-Marseille-c1890-1900.jpg
     thumb: /figures/Old-Harbor-Marseille-c1890-1900.jpg
-    caption: "Old Harbor, Marseille, c.1890-1900."
-    credit: "Public domain image"
+    caption: "Old Harbor, Marseille, c.1890-1900,"
+    credit: "Public domain image."
   - id: "10"
     src: /figures/Plymouth-Pier-1904.jpg
     thumb: /figures/Plymouth-Pier-1904.jpg
-    caption: "The Pier, with Drake's Island. Plymouth, England."
-    credit: "Public domain image"
+    caption: "The Pier, with Drake's Island. Plymouth, England,"
+    credit: "Public domain image."
   - id: "11"
     src: /figures/rev-robert-spears.jpg
     thumb: /figures/rev-robert-spears.jpg
-    caption: "Portrait of Reverend Robert Spears."
+    caption: "Portrait of Reverend Robert Spears,"
     credit: The Channing School Archives, Highgate, London.
   - id: "12"
     src: /figures/Liverpool-landing-stage-1903.jpg
     thumb: /figures/Liverpool-landing-stage-1903.jpg
-    caption: "Landing Stage. Liverpool, 1903."
-    credit: "Public domain image"
+    caption: "Landing Stage. Liverpool, 1903,"
+    credit: "Public domain image."
   - id: "13"
     src: /figures/RMS-Umbria-1896.jpg
     thumb: /figures/RMS-Umbria-1896.jpg
-    caption: "Cunard Line Royal Magesty Ship Umbria, 1896."
-    credit: "Public domain image"
+    caption: "Cunard Line Royal Magesty Ship Umbria, 1896,"
+    credit: "Public domain image."
   - id: "14"
     src: /figures/Plymouth-Church-Brooklyn-1904.jpg
     thumb: /figures/Plymouth-Church-Brooklyn-1904.jpg
-    caption: "Plymouth Church, Brooklyn, 1904."
-    credit: "Public domain image"
+    caption: "Plymouth Church, Brooklyn, 1904,"
+    credit: "Public domain image."
   - id: "15"
     src: /figures/Niagara-Falls-1898.jpg
     thumb: /figures/Niagara-Falls-1898.jpg
-    caption: "Photochrom print of American Falls and the Rock of Ages, 1898."
-    credit: "Public domain image, by William Henry Jackson"
+    caption: "Photochrom print of American Falls and the Rock of Ages, 1898,"
+    credit: "Public domain image, by William Henry Jackson."
   - id: "16"
     src: /figures/Chicago-Art-Institute-1893.jpg
     thumb: /figures/Chicago-Art-Institute-1893.jpg
-    caption: "Photograph of the Art Institute of Chicago taken in accordance with the World's Parliament of Religions, 1893."
-    credit: "Public domain image"
+    caption: "Photograph of the Art Institute of Chicago taken in accordance with the World's Parliament of Religions, 1893,"
+    credit: "Public domain image."
   - id: "17"
     src: /headers/PCM-letters-header.jpg
     thumb: /figures/mozoomdar-letters-bengali.jpg
-    caption: "_Letters Written by Protapchandra to his Wife_."
-    credit: "Sunrit Mullick"
+    caption: "_Letters Written by Protapchandra to his Wife_,"
+    credit: "Sunrit Mullick Collection."
   - id: "18"
     src: /figures/Janos-Ad.jpg
     thumb: /figures/Janos-Ad.jpg
-    caption: "Hunyadi János Bitterquelle"
-    credit: "Ferdinand Meyer V"
+    caption: "Hunyadi János Bitterquelle,"
+    credit: "Ferdinand Meyer V."
   - id: "19"
     src: /figures/Janos-Bottle.jpg
     thumb: /figures/Janos-Bottle.jpg
-    caption: "Hunyadi János Bitterquelle"
-    credit: "Ferdinand Meyer V"
+    caption: "Hunyadi János Bitterquelle,"
+    credit: "Ferdinand Meyer V."
   - id: "20"
     src: /figures/rev-robert-spears-2.jpg
     thumb: /figures/rev-robert-spears-2.jpg
-    caption: "Portrait of Reverend Robert Spears."
+    caption: "Portrait of Reverend Robert Spears,"
     credit: Malcolm Burns, private collection.

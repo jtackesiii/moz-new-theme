@@ -11,3 +11,4 @@ This site is built with [Quire](http://gettypubs.github.io/quire)
 ToDo:
  - Fix "map"
  - Add appropriate text to "archives" pages
+ - Fix in-text citations in "archives" pages
