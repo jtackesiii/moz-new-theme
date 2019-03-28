@@ -306,6 +306,7 @@
  background-size: cover;
 }
 
+/*
 #journey-map .quire-page__header {
   display: none;
 }
@@ -336,7 +337,7 @@
 #journey-map .quire-map {
     height: 525px;
     margin-bottom: 0;
-}
+} */
 
 /* @supports (column-count: 1) {
   #archives-archives .quire-contents-list.grid ul {
