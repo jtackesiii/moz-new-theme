@@ -7,7 +7,7 @@ pdf: false
 weight: 29
 ---
 
-{{< q-figure id="15" label="true" >}}
+{{< q-figure id="15" label="" >}}
 
 > The old great cataract set forth the same eternal roar, the whirlpool
 rapids rolled in their dark mysterious deeps, the heavy sprays kept up

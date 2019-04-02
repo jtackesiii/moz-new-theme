@@ -7,7 +7,7 @@ pdf: false
 weight: 17
 ---
 
-{{< q-figure id="6" label="true" >}}
+{{< q-figure id="6" label="" >}}
 
 After a stretch of ten days at sea, PCM arrived in Aden on 28 July.
 Instead of the excitement one might expect from someone finally able to

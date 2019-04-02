@@ -7,7 +7,7 @@ pdf: false
 weight: 12
 ---
 
-{{< q-figure id="2" label="true" >}}
+{{< q-figure id="2" label="" >}}
 
 At 11:30am on Tuesday July 11, 1893, Mozoomdar boarded the P&O steamship
 Khedive headed to London, the first leg of his journey to Chicago.

@@ -7,7 +7,7 @@ pdf: false
 weight: 10
 ---
 
-{{< q-figure id="1" label="true" >}}
+{{< q-figure id="1" label="" >}}
 
 Protap Chunder Mozoomdar (PCM) was one of the first Indians to command
 an audience in the United States of America, perhaps best-known for his

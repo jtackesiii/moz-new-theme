@@ -7,7 +7,7 @@ pdf: false
 weight: 20
 ---
 
-{{< q-figure id="8" label="true" >}}
+{{< q-figure id="8" label="" >}}
 
 More than a change of weather, these "European waters" marked a turning
 point in Mozoomdar's living conditions and resolve. Having moved to a

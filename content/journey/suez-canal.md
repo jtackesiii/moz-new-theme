@@ -7,7 +7,7 @@ pdf: false
 weight: 19
 ---
 
-{{< q-figure id="7" label="true" >}}
+{{< q-figure id="7" label="" >}}
 
 At the height of his suffering Mozoomdar scribbled, "it's too hot to
 write any more. I will just close my eyes for some time." {{< q-note "24" >}} By the

@@ -15,7 +15,7 @@ barges, and "the mass of buildings, some of them fifteen stories high,"
 which gleamed against the cobalt sky.{{< q-note "51" >}} His stay in New York was
 brief.
 
-{{< q-figure id="14" class="is-pulled-left" label="true" >}}
+{{< q-figure id="14" class="is-pulled-left" label="" >}}
 
  On Sunday 3 September, he lectured for the congregation of the
 late Henry Ward Beecher, acclaimed preacher and abolitionist, who had

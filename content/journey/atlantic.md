@@ -12,7 +12,7 @@ forgotten much of his anxiety during his week on the Atlantic. He wrote
 for *The Interpreter* that the ship was not so much a floating palace as
 a floating city, accommodating over 1000 passengers and personnel.
 
-{{< q-figure id="13" label="true" >}}
+{{< q-figure id="13" label="" >}}
 
 He spent his time amid sumptuous food, lavish salons, and galleries,
 complaining only that his quarters were "dark, stuffy, and

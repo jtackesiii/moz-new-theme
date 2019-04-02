@@ -7,7 +7,7 @@ image: /headers/16.jpeg
 weight: 26
 ---
 
-{{< q-figure id="12" label="true" >}}
+{{< q-figure id="12" label="" >}}
 
 Amid his public engagements, Mozoomdar only managed to compose three
 letters to Saudamini in London. His writing reflects how he spent his

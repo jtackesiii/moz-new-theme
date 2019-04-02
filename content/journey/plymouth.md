@@ -7,7 +7,7 @@ pdf: false
 weight: 24
 ---
 
-{{< q-figure id="10" label="true" >}}
+{{< q-figure id="10" label="" >}}
 
 Mozoomdar arrived in Plymouth on the morning of 16 August. His spirits
 were high. With "a strange smell in the air that reminds one of

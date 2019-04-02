@@ -14,7 +14,7 @@ of Mozoomdar's letters express longing for Saudamini's voice and
 cooking, his sharpest desire appears to have been to micromanage her
 life, even from afar.
 
-{{< q-figure id="4" class="is-pulled-left" label="true" >}}
+{{< q-figure id="4" class="is-pulled-left" label="" >}}
 
 In a telling sequence, he backtracks from the
 sentiment that his journey might allow Saudamini some rest from her
@@ -44,7 +44,7 @@ of black waves tearing into the hull of the SS Khedive in the manner of
 cannonballs and sheets of rain that transformed nature itself into the
 terrifying form of the goddess Bhairavi.{{< q-note "16" >}}
 
-{{< q-figure id="5" class="is-pulled-right" label="true" >}}
+{{< q-figure id="5" class="is-pulled-right" label="" >}}
 
 Inspired by the tempest,
 Mozoomdar wrote an article for *The Interpreter*, a Kolkata-based

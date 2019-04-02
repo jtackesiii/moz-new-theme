@@ -7,7 +7,7 @@ pdf: false
 weight: 14
 ---
 
-{{< q-figure id="3" label="true" >}}
+{{< q-figure id="3" label="" >}}
 
 
 > Dark red waves at the hull give way to ropes of surf embracing the

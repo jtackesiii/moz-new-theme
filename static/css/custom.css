@@ -1,3 +1,9 @@
+#cover .quire-page__content {
+  background-color: #EEF2F3;
+  font-size: 0.85em;
+  text-align: center;
+}
+
 .quire-cover .quire-cover__hero {
   background: transparent
 }

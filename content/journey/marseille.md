@@ -7,7 +7,7 @@ pdf: false
 weight: 21
 ---
 
-{{< q-figure id="9" label="true" >}}
+{{< q-figure id="9" label="" >}}
 
 Arriving on the evening of 8 August, Mozoomdar spent two days
 sightseeing in the French town of Marseille. He described to Saudamini

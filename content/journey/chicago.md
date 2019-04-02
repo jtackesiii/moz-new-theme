@@ -7,7 +7,7 @@ pdf: false
 weight: 30
 ---
 
-{{< q-figure id="16" label="true" >}}
+{{< q-figure id="16" label="" >}}
 
 At long last, nearly two months since his departure from Kolkata,
 Mozoomdar reached Chicago. Although cheerful upon his arrival, convinced

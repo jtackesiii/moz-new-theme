@@ -12,7 +12,7 @@ Freechurch Street (now Fenchurch Street Station) and then spent the next
 hour or so ambling by carriage to Highgate Hill, home of his longtime
 friend Reverend Robert Spears.
 
-{{< q-figure id="11" class="is-pulled-right" label="true" >}}
+{{< q-figure id="11" class="is-pulled-right" label="" >}}
 
  The Unitarian preacher had hosted
 Mozoomdar during his visit in 1874, but moved to London's northern
