@@ -1,10 +1,10 @@
 ---
-label: 5
-title: Reverend Robert Spears
-short_title: Rev. Robert Spears
-weight: 105
+label:
+title: Anagarika Dharmapala
+short_title: Dharmapala
+weight: 104
 object:
-  - id: 5
+  - id: 4
 type: entry
 abstract:
 ---

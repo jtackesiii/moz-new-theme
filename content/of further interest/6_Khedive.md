@@ -1,5 +1,5 @@
 ---
-label: 6
+label:
 title: Steamship Khedive
 short_title: SS Khedive
 weight: 106

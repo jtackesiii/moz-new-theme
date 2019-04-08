@@ -4,6 +4,15 @@
   text-align: center;
 }
 
+#contents .image img {
+  height: 50vh;
+  object-fit: contain;
+}
+
+#contents .quire-contents-list.grid .title {
+  text-align: center;
+}
+
 .quire-cover .quire-cover__hero {
   background: transparent
 }
@@ -57,6 +66,17 @@
   margin-top: 0.5em;
   margin-left: 0;
   margin-right: 0;
+}
+
+.quire-entry .quire-page__content h2 {
+font-family: Times, serif;
+letter-spacing: 0;
+color: #333333;
+font-size: 0.9em;
+line-height: 0.5em;
+text-transform: uppercase;
+margin-top: 20px;
+padding-bottom: 6px;
 }
 
 /* #journey-intro .quire-page__content {

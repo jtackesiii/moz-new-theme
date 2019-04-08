@@ -1,5 +1,5 @@
 ---
-label: 2
+label:
 title: Protap Chunder Mozoomdar
 short_title: Mozoomdar
 type: entry

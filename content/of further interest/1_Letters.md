@@ -1,6 +1,6 @@
 ---
-label: 1
-title: Letters Written by Protapchandra to his Wife
+label:
+title: Letters by Protapchandra to his Wife
 short_title: Letters
 type: entry
 weight: 101

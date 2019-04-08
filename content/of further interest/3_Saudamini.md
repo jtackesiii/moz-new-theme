@@ -1,5 +1,5 @@
 ---
-label: 3
+label:
 title: Saudamini Mozoomdar
 short_title: Saudamini Mozoomdar
 weight: 103

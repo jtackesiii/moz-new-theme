@@ -1,5 +1,5 @@
 ---
-label: 7
+label:
 title: Hunyadi János Bitterquelle
 short_title: Hunyadi János
 weight: 107
