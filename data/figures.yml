@@ -99,3 +99,10 @@ figure_list:
     thumb: /figures/rev-robert-spears-2.jpg
     caption: "Portrait of Reverend Robert Spears,"
     credit: Malcolm Burns, private collection.
+  - id: "map"
+    src: /headers/01.jpeg
+    thumb: /headers/01.jpeg
+    lat: 35.9424
+    long: -5.6250
+    geojson: "/data/master-map.json"
+    media_type: map

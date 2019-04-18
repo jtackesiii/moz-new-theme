@@ -7,6 +7,6 @@ pdf: false
 weight: 6
 ---
 
-{{< q-map lat="35.9424" long="-5.6250" geojson="/data/sample-geojson.json" >}}
+{{< q-figure-zoom id="map" >}}
 
-lat="35.9424" long="-5.6250"
+Click map to navigate.
