@@ -7,4 +7,6 @@ pdf: false
 weight: 6
 ---
 
-{{< q-map lat="35.9424" long="-5.6250" geojson="/data/master-map.json" >}}
+{{< q-map lat="35.9424" long="-5.6250" geojson="/data/sample-geojson.json" >}}
+
+lat="35.9424" long="-5.6250"
