@@ -100,6 +100,15 @@ class Map {
               return false
             })
           }
+          if (layerType === 'LineString') {
+            layer.setStyle({
+              'color': 'black',
+              'dashArray': '10',
+              'opacity': '0.5',
+              'lineJoin': 'round',
+              'weight': '2'
+            })
+          }
         }
       }).addTo(this.map)
     })
