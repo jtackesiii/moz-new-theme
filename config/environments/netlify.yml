@@ -14,5 +14,5 @@
 
 # Use these settings for Netlify
 #
-baseURL: "http://quire-demo.netlify.com"
+baseURL: "https://mozoomdar-at-sea.netlify.com"
 relativeURLs: true
