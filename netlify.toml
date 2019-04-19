@@ -1,0 +1,4 @@
+[build]
+  publish = "site"
+  command = "hugo --config=config.yml,config/environments/netlify.yml"
+  HUGO-Version = "0.50"
