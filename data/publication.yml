@@ -32,7 +32,7 @@ identifier:
 publisher:
   - name: J. Paul Getty Trust
     location: Los Angeles
-    url: http://www.getty.edu
+    url:
     logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
