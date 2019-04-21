@@ -79,10 +79,6 @@
           [
             88.29986572265625,
             22.54411077705975
-          ],
-          [
-            88.368698,
-            22.578080
           ]
         ]
       }
@@ -92,20 +88,6 @@
       "properties": {
         "description": "Farewell to Kolkata",
         "link": "/journey/farewell-to-kolkata"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.368698,
-          22.578080
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "A Prolongued Departure",
-        "link": "/journey/a-prolonged-departure"
       },
       "geometry": {
         "type": "Point",
