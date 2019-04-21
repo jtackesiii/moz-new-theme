@@ -4,7 +4,6 @@ short_title: Of Further Interest
 slug: .
 type: notes
 class: splash
-image: columbian-exhibition-1893.jpg
 weight: 100
 ---
 
