@@ -4,6 +4,14 @@
   text-align: center;
 }
 
+#cover .quire-page__content .container .content .backmatter {
+  border-top: 1px solid #333333;
+}
+
+.quire-page__content .container .content .backmatter h2 {
+  border-bottom: 1px solid #CF4747;
+}
+
 #contents .image img {
   height: 50vh;
   object-fit: contain;
