@@ -86,8 +86,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Introduction",
-        "link": "/journey/intro"
+        "description": "Farewell to Kolkata",
+        "link": "/journey/farewell-to-kolkata"
       },
       "geometry": {
         "type": "Point",

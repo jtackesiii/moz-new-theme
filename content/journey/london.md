@@ -7,11 +7,11 @@ pdf: false
 weight: 25
 ---
 
-Having docked in Tilbury early in the day, Mozoomdar took a train to Freechurch Street (now Fenchurch Street Station) and then spent the next hour or so ambling by carriage to Highgate Hill, home of his longtime friend Reverend Robert Spears.
+Having docked in Tilbury early in the day, Mozoomdar took a train to Freechurch Street (now Fenchurch Street Station) and then spent the next hour or so ambling by carriage to Highgate Hill, home of his longtime friend [Reverend Robert Spears](/../../of-further-interest/5_spears/).
 
 {{< q-figure id="11" class="is-pulled-right" label="" >}}
 
-The Unitarian preacher had hosted Mozoomdar during his visit in 1874, but moved to London's northern suburbs in 1885 to found a girl's school and a Unitarian church.{{< q-note "38" >}} PCM described the streets he saw on his way to Highgate as a scene of urban industry populated by shopkeepers, the cries of newspaper boys, crowds of businessmen, omnibuses, horse-drawn carriages, and tram cars "resplendent in painted advertisements from foot-board to coachbox."{{< q-note "39" >}}
+The Unitarian preacher had hosted Mozoomdar during his visits in 1874 and 1883, but moved to London's northern suburbs in 1885 to found a girl's school and a Unitarian church.{{< q-note "38" >}} PCM described the streets he saw on his way to Highgate as a scene of urban industry populated by shopkeepers, the cries of newspaper boys, crowds of businessmen, omnibuses, horse-drawn carriages, and tram cars "resplendent in painted advertisements from foot-board to coachbox."{{< q-note "39" >}}
 
 Mozoomdar shared in this spirit of industry. He preached at Spears' Unitarian church for Sunday-Monday services, and although morning attendance was thin, his evening mass drew a crowd.{{< q-note "40" >}} In addition, he gave an interview to the Reuter's Agency, later reproduced in many of the daily and weekly papers, about the Bombay riots that took place from August 11-14.{{< q-note "41" >}} Mozoomdar identified three causes of the riots:
 

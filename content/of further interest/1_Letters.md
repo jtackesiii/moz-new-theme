@@ -19,7 +19,7 @@ The strongest evidence that these letters are not PCM's originals is the placeme
 
 {{< q-class "backmatter" >}}
 
-## Acknowedgments
+## Acknowledgments
 
 Thanks are due first to Saudamini Mozoomdar. Without her care in preserving these letters, very little of her husband's personal life would be available. Thanks are also due to Sunrit Mullick. His dissertation work on Protap Chunder Mozoomdar had a great deal to do with the formulation of this project, and it is by his generosity that these letters, immaculately kept in his private collection of Brahmo Samaj materials, can also be shared here. Finally, thanks are due to Subhranil Roy, whose fine translation work has yielded the English version of these letters. Without his help, I would not have been able to make heads or tails of the Mozoomdars' correspondence.
 
