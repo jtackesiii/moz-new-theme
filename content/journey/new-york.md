@@ -7,7 +7,7 @@ pdf: false
 weight: 28
 ---
 
-If the applause of his listeners aboard the RMS Umbria humbled Mozoomdar, the sight of the New York harbor once again inspired him to eloquence. Describing it as "one of the most picturesque in the world," Mozoomdar wrote of forested islands, the to-and-fro of ferries and barges, and "the mass of buildings, some of them fifteen stories high," which gleamed against the cobalt sky.{{< q-note "51" >}} His stay in New York, however, was brief.
+If the applause of his listeners aboard the RMS Umbria humbled Mozoomdar, the sight of New York once again inspired him to eloquence. Describing the harbor as "one of the most picturesque in the world," Mozoomdar wrote of forested islands, the to-and-fro of ferries and barges, and "the mass of buildings, some of them fifteen stories high," which gleamed against the cobalt sky.{{< q-note "51" >}} His stay in New York City, however, was brief.
 
 {{< q-figure id="14" class="is-pulled-left" label="" >}}
 
