@@ -43,8 +43,8 @@ params:
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: true
   entryPageObjectLinkText: "Explore"
-  entryPageObjectLink_letters_englishText: "Read English translation"
-  entryPageObjectLink_letters_bengaliText: "Read Bengali translation"
+  entryPageObjectLink_letters_englishText: "Read in English"
+  entryPageObjectLink_letters_bengaliText: "Read in Bengali"
   figureLabelLocation: on-top # below | on-top
   figureModal: true
   figureModalIcons: true

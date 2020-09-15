@@ -13,8 +13,8 @@
 }
 
 #contents .image img {
-  height: 50vh;
-  object-fit: contain;
+  height: 33vh;
+  object-fit: cover;
 }
 
 #contents .quire-contents-list.grid .title {
